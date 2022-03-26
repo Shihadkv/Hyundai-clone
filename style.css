@@ -140,6 +140,7 @@ left: 5%;
 }
 
 .carprice{
+    padding-top: 22px;
     display: flex;
     height:60px ;
     padding-left: 25%;
